@@ -15,5 +15,12 @@ public class LanguageInfo {
 		System.out.println("Hindi");
 
 	}
-
+   public void java() {
+     System.out.println("java");
+}
+   public void cucumber() {
+     System.out.println("rathanson");
+}
+   
+   
 }
