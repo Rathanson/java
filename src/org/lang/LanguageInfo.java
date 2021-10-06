@@ -15,11 +15,12 @@ public class LanguageInfo {
 		System.out.println("Hindi");
 
 	}
-   public void maven() {
-   System.out.println("maven");
+  public void car() {
+System.out.println("car");
 }
-   public void junit() {
-	// TODO Auto-generated method stub
+  public void bike() {
+System.out.println("bike");
+}
 
 }
-}
+
