@@ -16,7 +16,7 @@ public class LanguageInfo {
 
 	}
   public void car() {
-System.out.println("car");
+
 }
   public void bike() {
 System.out.println("bike");
